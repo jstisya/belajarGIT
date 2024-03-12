@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 Menambahkan file Tugas-git.txt
+
 
